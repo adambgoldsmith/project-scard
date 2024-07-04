@@ -1,0 +1,93 @@
+Thief - Take 1 gold from opponent per card in opponents hand.
+
+Crypt Cards:
+    Grave Robber:
+        Cost: 3
+        Add the last card sent to the graveyard to your hand.
+
+    Reaper:
+        Cost: 6
+        Deal 10 damage.
+        This card has no cost if there are 30+ cards in the graveyard
+
+    Necromancer:
+        Cost: 5
+        Deal 6 damage.
+        Add 2 random cards from the graveyard to your hand.
+
+High Divinity:
+    cost: 3
+    Restore 10 health.
+
+Crowned Emperor:
+    cost: 5
+    Increase the cost of all cards in your opponents hand by 1.
+
+Number Cards:
+    ___:
+        Cost: 0
+        Draw 1 card.
+
+    ___:
+        Cost: 4
+        Draw 2 cards.
+
+    ___:
+        Cost: 6
+        Draw 3 cards.
+
+    ___:
+        Cost: 12
+        Draw 4 cards.
+
+Beast Cards:
+    Chimera:
+        Cost: 6
+        Deal 10 damage
+        ___
+
+    Kraken:
+        Cost: X
+        Spend all remaining gold. Deal 1 damage per gold spent.
+
+
+Noxious Cards:
+
+
+Avian Cards:
+    Sage Owl:
+        Cost: 3
+        Reveal up to 3 random cards from your opponent's hand.
+
+    Canary:
+        Cost: 1
+        Remove all noxious cards from your opponents hand.
+
+    
+
+
+
+
+Mind Cards:
+    Insanity:
+        Cost: 3
+        Each card played before Insanity (excluding Insanity) gets activated again. Take 1 damage per reactivation.
+
+    ___:
+        Cost: 4
+        Your next blind will be free.
+
+    Arrogance:
+        Cost: 4
+        Skip your opponents turn.
+
+    Kleptomaniac:
+        Cost: 2
+        Steal 1 random card from your opponents hand.
+
+    Tranquility:
+        Cost: 1
+        ___
+        
+    
+
